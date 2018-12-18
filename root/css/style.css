@@ -5,7 +5,10 @@
   text-align: center;
 }
 
-
+body {
+background-image: url("./images/brickpizza.jpg");
+background-repeat:no-repeat;
+}
 .content {
   text-align: center;
 }
