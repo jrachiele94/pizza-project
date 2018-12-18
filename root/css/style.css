@@ -6,7 +6,9 @@
 }
 
 body {
-background-image: root/images/giphy.gif("giphy.gif")
+  background-image: url("/root/images/giphy.gif");
+  background-position: 50% 50%;
+  background-repeat: repeat;
 }
 
 .content {
