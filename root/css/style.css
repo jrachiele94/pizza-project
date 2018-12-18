@@ -6,7 +6,7 @@
 }
 
 body {
-background: "./images/giphy.gif" 
+background-image: url("root/images/giphy.gif") 
 }
 
 .content {
