@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Pizza Reviews</title>
+</head>
+<body>
+	<ul>
+		<li><a href=""></a></li>
+		<li><a href=""></a></li>
+		<li><a href=""></a></li>
+		<li><a href=""></a></li>
+		<li><a href=""></a></li>
+		<li><a href=""></a></li>
+		<li><a href=""></a></li>
+		<li><a href=""></a></li>
+		<li><a href=""></a></li>
+		<li><a href=""></a></li>
+	</ul>
+	<img src=""></img>
+	<h1>Business Info:</h1>
+	<h3>Address: </h3><br />
+	<h3>Phone Number:</h3><br />
+	<h3>Price of Regular Slice:</h3><br />
+
+	<h1>Review of Slice:</h1>
+	<h3>Cheese: </h3>
+	<h3>Sauce: </h3>
+	<h3>Crust: </h3>
+	<h3>Overall Average: </h3>
+</body>
+</html>
